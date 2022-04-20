@@ -105,7 +105,6 @@ nav li:hover a::after {
     display: block;
     color: rgb(5, 5, 5);
     font-size: 18px;
-
     text-decoration: none;
     overflow: hidden;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -231,7 +230,7 @@ nav li:hover a::after {
         width: 40%;
         margin-left: -70%;
         transition: all 0.5s;
-        transform: translateY(28%);
+        transform: translateY(22%);
         border-radius: 0 0 5%;
     }
 
